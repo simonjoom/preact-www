@@ -136,6 +136,12 @@ permalink: '/about/we-are-using'
         </a>
     </li>
     <li>
+        <a href="//skiscool.com" target="_blank">
+            <img src="/assets/we-are-using/skiscool.png" alt="ski school courchevel">
+            Ski school courchevel 
+        </a>
+    </li>
+    <li>
         <a href="http://www.transformersmovie.com" target="_blank">
             <img src="/assets/we-are-using/transformers.png" alt="Transformers">
             Transformers
